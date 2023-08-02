@@ -1,6 +1,12 @@
 # Web Scraping Program Description:
 
-The provided codes combine to form a web scraping program that scrapes news articles from Hacker News and displays the articles with a vote count of 100 or more. It consists of two components: One is the main Python script that is run from the terminal, included in 'web_scraper.py', and the other is a module ('web_scraping_pages.py') that performs the actual web scraping.
+This project is driven by the aspiration to develop a sophisticated web scraping program designed to extract news articles from Hacker News. The program focuses on presenting articles that have garnered substantial attention, defined by a vote count exceeding 100. This endeavor is comprised of two integral components:
+
+The primary component encompasses a Python script named 'web_scraper.py', which serves as the core of the application, capable of being executed via the terminal. It orchestrates the overall functioning of the web scraping operation.
+
+The auxiliary component, encapsulated within the module 'web_scraping_pages.py', is dedicated to executing the intricate process of web scraping itself, facilitating the extraction of pertinent data from the targeted online sources.
+
+This endeavor showcases a commitment to technical excellence and strategic data extraction methodologies, exemplifying a professional approach towards harnessing valuable content from the digital landscape.
 
 # Functionalities:
 
